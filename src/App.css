@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,700&display=swap');
+
+* {
+  margin: 0;
+  font-family: 'Amazon Ember';
+}
+
+html {
+  min-height: 100%;
+}
+
+body {
+  background-color: rgb(234, 237, 237);
+  height: 100%;
+}

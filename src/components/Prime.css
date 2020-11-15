@@ -1,0 +1,12 @@
+.prime {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.prime > img {
+  margin-top: 10px;
+  max-width: 400px;
+}
