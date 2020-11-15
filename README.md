@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Project Deployed Here: https://clone-2fb44.web.app/
 
-This an amazon clone app made with React that has cart functionality, authentification system and a payment process.
+This is an amazon clone application made with React that has cart functionality, authentification system and a payment process.
 
 ### Technologies Used:
 
