@@ -14,7 +14,7 @@ This is an amazon clone application made with React that has cart functionality,
 - <a href="https://firebase.google.com/docs/">Firebase BaaS</a> 🔥
 - <a href="https://stripe.com/docs">Stripe API</a> 💳
 
-### To get started :-
+### To get started :
 
 - React-Frontend
 
