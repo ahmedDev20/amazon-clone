@@ -1,6 +1,6 @@
 ## React Amazon Clone App
 
-![Overview](https://ibb.co/vBHYCzz)
+![Overview](https://i.ibb.co/6ZmBcss/amazon-clone.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
