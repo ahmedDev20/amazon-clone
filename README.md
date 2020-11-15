@@ -10,9 +10,9 @@ This is an amazon clone application made with React that has cart functionality,
 
 ### Technologies Used:
 
-- <a href="https://reactjs.org/">ReactJS</a> ⚛
-- <a href="https://firebase.google.com/docs/">Firebase BaaS</a> 🔥
-- <a href="https://stripe.com/docs">Stripe API</a> 💳
+- <a href="https://reactjs.org/" target="blank">ReactJS</a> ⚛
+- <a href="https://firebase.google.com/docs/" target="blank">Firebase BaaS</a> 🔥
+- <a href="https://stripe.com/docs" target="blank">Stripe API</a> 💳
 
 ### To get started :
 
